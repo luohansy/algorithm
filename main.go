@@ -1,7 +1,7 @@
 package main
 
 import (
-   "github.com/algorithm/libgo"
+   "github.com/luohansy/algorithm/libgo"
    "fmt"
 )
 
